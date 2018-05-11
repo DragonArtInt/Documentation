@@ -1,0 +1,19 @@
+Obs: o artigo é mais voltado para a aplicação de IA nos agentes não controlados, exemplo, inimigos.
+
+Na introdução é falado que desde o início da área de de desenvolvimento de jogos, as pessoas buscam o aprimoramento do realismo nos jogos, ou seja, simular o comportamento humano.
+
+Pulando para as técnicas básicas, é falado sobre agentes, que são entidades dentro do jogo que percebem seu ambiente e o modificam ou agem de acordo com ele.
+
+A forma de percepção do agente define fortemente a qualidade da inteligência artificial.
+
+Máquinas de estado são úteis em todos os tipos de jogos por facilitarem a organização de informação em momentos e servir como controle de tomada de decisão. 
+
+A navegação dos agentes podem ser dividas em, busca cega onde o agente não tem conhecimento prévio do cenário que esta atuando, busca informada, onde o agente possue informações do ambiente podendo criar soluções sabendo do ponto origem e do ponto destino.
+
+Algoritmos genéticos, assim como a evolução a humana, estes algoritmos possuem 4 etapas principais, a herança que são o resultados de cada iteração de processamento dos algoritmos que geram resultados "filhos" que herdam características dos "pais", mas para haver evolução é preciso mudança de estado de cada resultado, para isso vem a mutação, é a modificação dos "filhos" para gerar aleatoriedade, então há a seleção que é baseada em score minímo ou máximo que cada "filho" deve possuir, e por fim o cruzamento que na verdade é o primeiro passo para geração das próximas gerações de genes.
+
+Um grande desafio de se obter AGs usuais para o universo de jogos eletrônicos é o fato que esse processo assim como o processo de evolução natural demorar para convergir para uma solução ótima, nesse caso devemos com uma função objetivo bem calibrada atingir uma solução boa. A decisão de como utilizar AG na solução do problema em geral também esbarra na definição do cromossomo. Uma boa solução é totalmente dependente de uma boa modelagem do seu cromossomo.
+
+As redes neurais também são baseadas na natureza, onde busca simular o comportamento do cerébro. A aprendizagem desta técnica é dividida de forma geral em Superviosinado, Não Superviosinado e Reforço, onde o último é o que mais se assemelha á aprendizagem humana natural.
+
+A figura 4 faz uma representação bem simples e legal da aprendizagem por esforço. 

@@ -1,0 +1,20 @@
+Motivação/Introdução
+
+Segundo a plataforma Newzoo[1], atualizada de Abril de 2018, o faturamento global do mercado de jogos passa de 135 bilhões de dólares com 2.3 bilhões de gamers ao redor do globo. Sendo assim, é fácil perceber que o mundo dos games é uma vertente de mercado bastante lucrativa e procurada, então com a alta demanda vem-se a necessidade de contínua evolução de qualidade por questões de concorrência. Com isso, e segundo o artigo de Maycon Prado da Universidade de Campinas [2], os jogos digitais ganham inovações a cada dia onde o realismo é uma das principais motivações. Para conseguir tal realismo e suprir a necessidade referentes a qualidade, desde os anos 60 foi instaurada a inteligência artificial no mundo dos jogos, onde os pioneiros foram os caça níqueis e em relação a plataforma digital, o jogo Pong[link para o jogo] [3][4]. A ideia sempre é otimizar a interação automática dos agentes independetes dos jogos, inimigos, pontos de ambientes variáveis, itens, etc.
+Com essa integração de áreas, surgiram outras vertentes para aplicação de inteligência artificial em jogos, umas delas é a computação evolutiva, área baseada na evolução biológica dos seres vivos sendo ela divida em Lógica Fuzzy, Computação Evolucionária e Redes Neurais, mas deve-se ressaltar que essas três áreas são usadas juntas também que será o caso deste trabalho.
+
+Resumo
+
+A aplicação de inteligência artifical no mundo dos jogos é uma atividade que vem sendo implementadas desde os anos 60 com o intuito de otimizar o realismo dos agentes independetes ou não controlados diretamenteEste trabalho vem o intuito de propor um Framework 
+
+Neural Network
+
+
+
+
+Referências 
+[1] https://newzoo.com/insights/articles/global-games-market-reaches-137-9-billion-in-2018-mobile-games-take-half/
+[2] Aplicação de agentes em Jogos Digitais - Maycon Prado Rocha Silva
+[3] http://abrindoojogo.com.br/inteligencia-artificial-nos-games-conceito-e-historico
+[4] http://sbgames.org/sbgames2012/proceedings/papers/tutoriais/tutorial-04.pdf
+[5] https://www.youtube.com/watch?v=lIG7Bqe1L-c
